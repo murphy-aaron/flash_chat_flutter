@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:loading_overlay/loading_overlay.dart';
 
 import '../components/rounded_button.dart';
-import '../constants.dart';
+import '../utilities/constants.dart';
 
 class RegistrationScreen extends StatefulWidget {
 
